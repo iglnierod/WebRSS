@@ -7,19 +7,19 @@
         <item>
             <title>Several incoming Atlantic fronts bring more rain: Spain weather forecast Nov 14-17</title>
             <description>Stormy weather and cooler temperatures are expected in large areas of Spain this week</description>
-            <enclosure url="https://github.com/iglnierod/TheCat/blob/6621dcd899f15bee553940938e47cc37b3fd45ad/img/sonia.jpg" length="12345" type="image/jpeg" />
+            <enclosure url="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F09%2F21%2Fsiberian-cat-white-in-grass-51154880-2000.jpg" length="12345" type="image/jpeg" />
           </item>          
         <item>
             <title>Former President Holly Trump announces a White House bid for 2024</title>
             <description>Former President Donald Trump, aiming to become only the second commander-in-chief ever elected to two nonconsecutive terms.</description>
             <link>https://iglnierod.github.io/WebRSS/</link>
-            <!-- <enclosure url="https://github.com/iglnierod/TheCat/blob/6621dcd899f15bee553940938e47cc37b3fd45ad/img/sonia.jpg" type="image/jpeg"/> -->
+            <enclosure url="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F09%2F21%2Fsiberian-cat-white-in-grass-51154880-2000.jpg" length="12345" type="image/jpeg" />
         </item>
         <item>
             <title>Hokule, the cat that loves waves more than any of his kind</title>
             <description>This Hawaiian Cat Loves SurfingWith His Human Parents.</description>
             <link>https://iglnierod.github.io/WebRSS/</link>
-            <enclosure url="https://github.com/iglnierod/TheCat/blob/6621dcd899f15bee553940938e47cc37b3fd45ad/img/sonia.jpg" length="12345" type="image/jpeg" />
+            <enclosure url="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F09%2F21%2Fsiberian-cat-white-in-grass-51154880-2000.jpg" length="12345" type="image/jpeg" />
         </item>
     </channel>
 </rss>
